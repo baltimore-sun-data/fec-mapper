@@ -22,7 +22,7 @@ Because I want to practice python a bit without having to spend forever on it, I
 -- Create a folder called "baked-html" containing output
 
 
-
+=====
 #####
 
 TODOs:
@@ -46,7 +46,7 @@ TODOs:
 -- Start working on the php code in the "bake" folder 
 
 
-
+=====
 #####
 
 Steps I used to make my workflow function:

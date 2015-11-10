@@ -22,11 +22,15 @@ Because I want to practice python a bit without having to spend forever on it, I
 
 Steps I used to make my workflow function:
 
--- Created repository using web interface.
+-- Created repository using web interface
 
 -- Used "git clone" to download to local workspace
 
--- Made some changes
+-- Used   cd fec-mapper  to go into the local repository
+
+-- Made some changes to the readme file using vim
+
+-- Created some folders
 
 -- Used format   
 	git remote add origin https://github.com/user/repo.git   
@@ -36,6 +40,9 @@ Steps I used to make my workflow function:
 	git remote -v
 	git add .
 	git commit
+	#git may ask for some ID info here -- provide it if so.
+	git push
 	#(Entered password info here.)
--- 
+
+
 

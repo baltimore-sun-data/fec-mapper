@@ -38,6 +38,11 @@ Steps I used to make my workflow function:
 	https://help.github.com/articles/adding-a-remote/
 	#(^redundant but harmless)
 	git remote -v
+	echo "This file exists because http://bit.ly/1Y1NL31" > ./bake/placeholder.txt
+	echo "This file exists because http://bit.ly/1Y1NL31" > ./baked-html/placeholder.txt
+	echo "This file exists because http://bit.ly/1Y1NL31" > ./history/placeholder.txt
+	echo "This file exists because http://bit.ly/1Y1NL31" > ./local-json/placeholder.txt
+	echo "This file exists because http://bit.ly/1Y1NL31" > ./scrape/placeholder.txt
 	git add *
 	git commit
 	#git may ask for some ID info here -- provide it if so.

@@ -5,6 +5,9 @@ Basic API documentation on which this will rely:
 
 https://api.open.fec.gov/developers 
 
+
+#####
+
 Because I want to practice python a bit without having to spend forever on it, I will do the following:
 
 -- Create a folder called "scrape" containing python scripts that output json for chatter, mapping, etc.,.
@@ -19,6 +22,32 @@ Because I want to practice python a bit without having to spend forever on it, I
 -- Create a folder called "baked-html" containing output
 
 
+
+#####
+
+TODOs:
+
+-- Set up a virtualenv
+
+-- Create a simple API call to pull some data for our state
+
+-- Create a simple comparison that writes a human-readable timestamp to a file when the data has changed
+
+-- Set up a cron job to run this -- in this way, we can judge a threshold so we don't get /constant/ alerts
+
+-- Set up a simple chatter generator in python, describing the scope of data and recent notable changes
+
+-- Output the JSON that will feed our map 
+
+-- Pull each part of this readme file into its own file and create verbal pointers to those files
+
+-- Make sure that all documentation uses the correct markup style. (It currrently does not.)
+
+-- Start working on the php code in the "bake" folder 
+
+
+
+#####
 
 Steps I used to make my workflow function:
 
@@ -43,11 +72,10 @@ Steps I used to make my workflow function:
 	echo "This file exists because http://bit.ly/1Y1NL31" > ./history/placeholder.txt
 	echo "This file exists because http://bit.ly/1Y1NL31" > ./local-json/placeholder.txt
 	echo "This file exists because http://bit.ly/1Y1NL31" > ./scrape/placeholder.txt
+	#And now the important three that you'll want to loop from now until the end of time:
 	git add *
-	git commit
-	#git may ask for some ID info here -- provide it if so.
+	git commit --message="More initial build work"
 	git push
-	#(Entered password info here.)
 
 
 

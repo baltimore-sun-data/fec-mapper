@@ -27,9 +27,9 @@ Because I want to practice python a bit without having to spend forever on it, I
 
 TODOs:
 
--- Set up a virtualenv
+x Set up a virtualenv called fecm   ... which can be activated with   source ~/.virtualenvs/fecm/bin/activate
 
--- Create a simple API call to pull some data for our state
+~ Create a simple API call to pull some data for our state
 
 -- Create a simple comparison that writes a human-readable timestamp to a file when the data has changed
 
@@ -45,11 +45,16 @@ TODOs:
 
 -- Start working on the php code in the "bake" folder 
 
+-- Integrate with jade/scss/koala/etc.,. 
+   (I would do this earlier, but we're still figuring out preciseely how we want to use those tools at work.)
+
 
 =====
 #####
 
-Steps I used to make my workflow function:
+Steps I used to make my workflow function on a relatively fresh VM:
+
+-- Installed virtualenvwrapper using   sudo apt-get install virtualenvwrapper
 
 -- Created repository using web interface
 

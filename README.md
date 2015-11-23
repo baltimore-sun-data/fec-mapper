@@ -6,6 +6,7 @@ Basic API documentation on which this will rely:
 https://api.open.fec.gov/developers 
 
 
+
 #####
 
 Because I want to practice python a bit without having to spend forever on it, I will do the following:
@@ -21,6 +22,8 @@ Because I want to practice python a bit without having to spend forever on it, I
 
 -- Create a folder called "baked-html" containing output
 
+-- Dump all python requirements into a requirements.txt file that lives above all those subdirectories.
+
 
 =====
 #####
@@ -30,6 +33,7 @@ TODOs:
 x Set up a virtualenv called fecm   ... which can be activated with   source ~/.virtualenvs/fecm/bin/activate
 
 ~ Create a simple API call to pull some data for our state
+	- 
 
 -- Create a simple comparison that writes a human-readable timestamp to a file when the data has changed
 
@@ -77,7 +81,8 @@ Steps I used to make my workflow function on a relatively fresh VM:
 	echo "This file exists because http://bit.ly/1Y1NL31" > ./history/placeholder.txt
 	echo "This file exists because http://bit.ly/1Y1NL31" > ./local-json/placeholder.txt
 	echo "This file exists because http://bit.ly/1Y1NL31" > ./scrape/placeholder.txt
-	#And now the important three that you'll want to loop from now until the end of time:
+	#And now the important four that you'll want to loop from now until the end of time:
+	pip freeze > requirements.txt	
 	git add *
 	git commit --message="More initial build work"
 	git push

@@ -1,0 +1,1291 @@
+ ... main stub started (gets candidate list)... 
+{
+    "api_version": "1.0", 
+    "pagination": {
+        "count": 42, 
+        "page": 1, 
+        "pages": 1, 
+        "per_page": 80
+    }, 
+    "results": [
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60004793", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "ADESHINA, YINKA ABOSEDE", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005279", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "BOWERS, KERRY DALE", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P00004275", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2000, 
+                2002, 
+                2004, 
+                2006, 
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2000, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "BROWN, HARLEY D", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "NNE", 
+            "party_full": "None", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60008059", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "BUSH, JEB", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005915", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CARSON, BENJAMIN S SR MD", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P80000268", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                1988, 
+                1990, 
+                1992, 
+                1994, 
+                1996, 
+                1998, 
+                2000, 
+                2002, 
+                2004, 
+                2006, 
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00", 
+                "00", 
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                1988, 
+                1990, 
+                2008, 
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CARTER, WILLIE FELIX", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60008075", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CHAFEE, LINCOLN DAVENPORT MR.", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005501", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CHRISTENSEN, DALE H", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60008521", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CHRISTIE, CHRISTOPHER J", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P00003392", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2008, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CLINTON, HILLARY RODHAM", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60008489", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "COSTELLO, REGIS J", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "IND", 
+            "party_full": "Independent", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60006111", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "CRUZ, RAFAEL EDWARD \"TED\"", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005709", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "DUCKWALD, WANDA GAYLE", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005972", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "EVERSON, MARK", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007242", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "FIORINA, CARLY", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P80003379", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2008, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "GILMORE, JAMES S III", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007697", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "GRAHAM, LINDSEY O", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P20002838", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "HILL, CHRISTOPHER V", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P80003478", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2008, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "HUCKABEE, MIKE", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60004900", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "JEROBOAN, KINS", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60008398", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "JINDAL, BOBBY", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60003670", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2000, 
+                2002, 
+                2004, 
+                2006, 
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2000, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "KASICH, JOHN R", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007267", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "KELSO, LLOYD THOMAS", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60016383", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "KITTINGTON, VALMA", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60009685", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": null, 
+            "incumbent_challenge_full": "Unknown", 
+            "name": "LESSIG, LAWRENCE", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005253", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "LOWER, BARTHOLOMEW JAMES", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60006954", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "LYNCH, DENNIS MICHAEL", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60015773", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "MANELSKI, DEVON MARCUS", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "IND", 
+            "party_full": "Independent", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007671", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "O'MALLEY, MARTIN JOSEPH", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P40003576", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "PAUL, RAND", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P20003281", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "PERRY, JAMES R (RICK)", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60014909", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "ROBINSON JR, JACK BURTON", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "LIB", 
+            "party_full": "Libertarian", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007168", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "SANDERS, BERNARD", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P20002721", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "SANTORUM, RICHARD J.", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P00003962", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2000, 
+                2002, 
+                2004, 
+                2006, 
+                2008, 
+                2010, 
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00", 
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2000, 
+                2004, 
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "SCHRINER, JOSEPH CHARLES", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "UNK", 
+            "party_full": "Unknown", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007440", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "SCROGGIE, JEREMY", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "IND", 
+            "party_full": "Independent", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60005345", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "SHERMAN, JEFFERSON WOODSON", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P20003984", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "STEIN, JILL", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "GRE", 
+            "party_full": "Green Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P80001571", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "TRUMP, DONALD J", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "REP", 
+            "party_full": "Republican Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P20004065", 
+            "candidate_status": "C", 
+            "candidate_status_full": "Statutory candidate", 
+            "cycles": [
+                2012, 
+                2014, 
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00", 
+                "00"
+            ], 
+            "election_years": [
+                2012, 
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "WELLS, ROBERT CARR JR", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007515", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "WILSON, WILLIE", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }, 
+        {
+            "active_through": 2016, 
+            "candidate_id": "P60007754", 
+            "candidate_status": "C", 
+            "candidate_status_full": null, 
+            "cycles": [
+                2016
+            ], 
+            "district": "00", 
+            "district_number": 0, 
+            "election_districts": [
+                "00"
+            ], 
+            "election_years": [
+                2016
+            ], 
+            "incumbent_challenge": "O", 
+            "incumbent_challenge_full": "Open seat", 
+            "name": "WINSLOW, BRAD MR.", 
+            "office": "P", 
+            "office_full": "President", 
+            "party": "DEM", 
+            "party_full": "Democratic Party", 
+            "state": "US"
+        }
+    ]
+}
+<type 'list'>
+<type 'dict'>
+ADESHINA, YINKA ABOSEDE
+P60004793
+2016
+ADESHINA, YINKA ABOSEDE
+P60004793
+2016
+BOWERS, KERRY DALE
+P60005279
+2016
+BROWN, HARLEY D
+P00004275
+2016
+BUSH, JEB
+P60008059
+2016
+CARSON, BENJAMIN S SR MD
+P60005915
+2016
+CARTER, WILLIE FELIX
+P80000268
+2016
+CHAFEE, LINCOLN DAVENPORT MR.
+P60008075
+2016
+CHRISTENSEN, DALE H
+P60005501
+2016
+CHRISTIE, CHRISTOPHER J
+P60008521
+2016
+CLINTON, HILLARY RODHAM
+P00003392
+2016
+COSTELLO, REGIS J
+P60008489
+2016
+CRUZ, RAFAEL EDWARD "TED"
+P60006111
+2016
+DUCKWALD, WANDA GAYLE
+P60005709
+2016
+EVERSON, MARK
+P60005972
+2016
+FIORINA, CARLY
+P60007242
+2016
+GILMORE, JAMES S III
+P80003379
+2016
+GRAHAM, LINDSEY O
+P60007697
+2016
+HILL, CHRISTOPHER V
+P20002838
+2016
+HUCKABEE, MIKE
+P80003478
+2016
+JEROBOAN, KINS
+P60004900
+2016
+JINDAL, BOBBY
+P60008398
+2016
+KASICH, JOHN R
+P60003670
+2016
+KELSO, LLOYD THOMAS
+P60007267
+2016
+KITTINGTON, VALMA
+P60016383
+2016
+LESSIG, LAWRENCE
+P60009685
+2016
+LOWER, BARTHOLOMEW JAMES
+P60005253
+2016
+LYNCH, DENNIS MICHAEL
+P60006954
+2016
+MANELSKI, DEVON MARCUS
+P60015773
+2016
+O'MALLEY, MARTIN JOSEPH
+P60007671
+2016
+PAUL, RAND
+P40003576
+2016
+PERRY, JAMES R (RICK)
+P20003281
+2016
+ROBINSON JR, JACK BURTON
+P60014909
+2016
+SANDERS, BERNARD
+P60007168
+2016
+SANTORUM, RICHARD J.
+P20002721
+2016
+SCHRINER, JOSEPH CHARLES
+P00003962
+2016
+SCROGGIE, JEREMY
+P60007440
+2016
+SHERMAN, JEFFERSON WOODSON
+P60005345
+2016
+STEIN, JILL
+P20003984
+2016
+TRUMP, DONALD J
+P80001571
+2016
+WELLS, ROBERT CARR JR
+P20004065
+2016
+WILSON, WILLIE
+P60007515
+2016
+WINSLOW, BRAD MR.
+P60007754
+2016
